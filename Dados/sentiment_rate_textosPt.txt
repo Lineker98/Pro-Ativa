@@ -1,0 +1,133 @@
+0,"consegui passar em outra universidade, em uma cidade com muito mais oportunidades de estágio e emprego na área."	2	-1
+1,adaptacao 	2	-1
+2,acabei desistindo da área. virei concurseiro 	1	-2
+3,professores dificultam muito a nossa estadia na faculdade	1	-2
+4,a greve que ocorreu na época. 	1	-3
+5,"eu não consegui prosseguir. o icea cobra muito e ensina pouco! utiliza como paramento de conhecimento alunos que vieram de escolas particulares, e esquecem que o sistema publico esta defasado em conhecimento."	2	-2
+6,muita greve!	1	-3
+7,aprovação em outra universidade (ufmg).	2	-1
+8,dificuldade em conciliar trabalho e estudos	1	-2
+9,passar em uma universidade maior	2	-1
+10,"desligamento por baixo rendimento, devido a problemas psicológicos causados por desmotivação em relação ao curso."	1	-3
+11,falta de didatica de alguns professores.	1	-3
+12,joao monlevade	1	-1
+13,observação: cenário é com “c”.	1	-1
+14,mudança de curso e faculdade	2	-1
+15,mudei para puc-mg e comecei a trabalhar na cemig. 	2	-1
+16,aprovação em minha primeira opção de curso no sisu.	2	-1
+17,- o ambiente em sala de aula me desmotivava.	1	-3
+18,desinteresse por causa de reprovações	1	-3
+19,distância de casa e não pertencimento a cidade de monlevade	1	-1
+20,oportunidade de cursar uma federal em minha cidade 	1	-1
+21,"falta de professores competentes e muitas greves, além das reformas q duraram todo o tempo do curso"	1	-3
+22,meu filho nasceu.  )	1	-1
+23,greves constantes e quando retornava nao havia coro suficiente para todos os alunos 	1	-3
+24,"eu tenho tdah, não sabia disso na época, e não conseguia render nos estudos."	1	-2
+25,distancia entre a faculdade e minha casa	1	-1
+26,dificuldade de alugar imóvel sem burocracia como fiador.	1	-2
+27,dificuldades em algoritmos e estruturas de dados	1	-2
+28,reprovações sucessivas.	1	-3
+29,não estava gostando do curso e surgiu a oportunidade de fazer um curso diferente e mais próximo da minha cidade	1	-2
+30,"os professores não ensinam, a grande maioria, salvo alguns, demonstram desinteresse em relação ao aprendizado dos alunos e em ensinar, são sarcásticos e, devido ao cargo em uma ief, se mostram sentido-se como superiores em relação à outros professores."	3	-2
+31,"a péssima didática de alguns professores, e em alguns casos a má vontade do mesmo em saber ensinar... deixando na maioria das ocasiões o ensino por conta do tutor/monitor."	1	-1
+32,falta de aproveitamento do rendimento de outra faculdade para transferência	1	-3
+33,voltei pra area que sempre gostei e trabalhei	2	-1
+34,estar longe de casa com baixo suporte financeiro.	1	-3
+35,dificuldade em conciliar trabalho e estudo.	1	-2
+36,a dificuldade em relação a matéria principal do curso.	1	-2
+37,"fiz vestibular e passei em curso semelhante na unifei, não estava gostando das instalações da ufop em monlevade. "	2	-2
+38,quem tem um lindo especial na família sabe como é... 	2	-1
+39,proximidade da outra faculdade com a cidade atual dos pais	1	-2
+40,criação da minha própria empresa durante a graduação.	1	-1
+41,aprovação em concurso.	3	-1
+42,"entrei em ec e sai, depois de 2 anos voltei em ep e larguei de novo esse periodo."	1	-1
+43,falta de perspectiva 	1	-3
+44,imaturidade do curso	1	-1
+45,minha matrícula foi cancelada de forma injusta pois apresentei todos os documentos necessários e após 3 meses que já estava estudando minha matrícula foi cancelada 	1	-1
+46,"passei em uma faculdade da minha cidade, no mesmo curso"	2	-1
+47,didática ruim (exceto na disciplina de introdução a engenharia da computação) e muita cobrança nas provas. 	1	-2
+48,a depressão me levou a ter desinteresse pelo curso e por todo o resto.	1	-4
+49,"professores sem compromisso de ensinar, que tem prazer em dar nota baixar mas não tem boa vontade de ensinar. "	1	-2
+50,infelicidade e dificuldade no neu curso.	1	-2
+51,falta de compreensão da maioria dos professores em relação a alunos que trabalhavam o dia inteiro e viajavam pra estudar no período noturno.	1	-3
+52,não era oque eu queria 	1	-1
+53,incompatibilidade de tempo de trabalho e estudo.	1	-3
+54,entrei na usp dois dias depois da matrícula	1	-1
+55,escolhi outro curso que tinha maior interesse pela área.	1	-1
+56,"o curso estava com muitos problemas. a falta de laboratórios e a previsão que eles não seriam construídos antes de formamos, professores muito displicentes com o ensino (tivemos um professor que faltou quase 3 meses de aula e quiz dar o semestre em 2 meses pegando o mês de ferias para isso), problemas estruturais do próprio campus, enfim, estava tudo uma bagunça e desorganização reinava ali. essas coisas foram desanimando e muito minha turma, o que ocasionou uma grande evasão entre eles. acabei prestando vestibular para outra universidade pública e me desliguei da ufop - icea. "	3	-3
+57,"não me via como engenheiro, todos meus colegas já tinham uma predisposição na área do curso."	2	-1
+58,"falta de acessibilidade as pessoas que trabalham de turno. tive que escutar de professores, principalmente do xxxxx, coordenador do curso de sistemas de informação que ou você trabalha ou você estuda. não posso fazer nada por você! alie senti como um nada. a escola pública deve ser acessível. uma vez que vi que a universidade pública era acessível a quem tinha acessibilidade a disponibilidade fiquei triste, pois sempre precisei trabalhar parar bancar. água, luz, alimentação e etc. e professores como o xxxxx me fizeram a sair da ufop"	2	-4
+59,"a infra da ufop para computação é uma bosta, não tem pesquisa, não tem aulas práticas de laboratório e depois que você conhece a ufmg você se decepciona ainda mais, já que os maiores problemas da ufop estão no comportamento agressivo de ter prazer em reprovar os alunos."	1	-3
+60,"falta de empatia dos professores, principalmente com quem trabalha."	1	-3
+61,eu percebi que eu não me encaixava na área de exatas	1	-1
+62,a vida 	1	-1
+63,mudei para a ufmg.	2	-1
+64,faltou força de vontade para continuar.	3	-3
+65,"total falta de respeito de alguns professores com alunos e com a educação, péssimos professores, tem prazer em falar que reprovam mais de 90% de alunos, na minha opinião o problema não está nos alunos reprovados e sim nestes ""professores"". "	3	-4
+66,"um curso que já era difícil se tornou mais difícil por conta de professores antiquados, com péssima didática e certa ignorância ao lidar com alunos. em especial o professor e presidente do colegiado xxxxx, que vez ou outra trata alunos de forma grosseira e negava pedidos de quebra sem justificativas plausíveis (ex: negou engenharia ambiental básica alegando falta de conhecimento prévio)"	2	-3
+67,"passei no mesmo curso na ufop, devido à distância da família, baixo recurso financeiro e não adaptação à joão monlevade, decidi voltar para ouro preto."	2	-3
+68,"a maioria dos professores não ajuda quem trabalha e estuda, somente aos alunos que ficam somente para estudar."	1	-1
+69,falta de tempo foi fator determinante.	1	-3
+70,mudança de curso devido minha área de atuação no mercado de trabalho	2	-1
+71,baixo rendimento nas disciplinas	1	-3
+72,não me adaptei ao curso	1	-2
+73,"diagnosticado com depressão, sem sequência no tratamento."	1	-4
+74,foi necessário priorizar o trabalho em detrimento ao estudo.	1	-1
+75,"não me adaptei à cidade, estava muito jovem e despreparado."	1	-2
+76,passei em outro curso na ufop no campus morro do cruzeiro 	2	-1
+77,"falta de uma fonte de renda para me sustentar na cidade, infelismente."	1	-3
+78,sair de jm	1	-1
+79,engenharia da computação não é para mim.	1	-1
+80,falta de identificação com o curso	1	-3
+81,é necessário coragem para se largar algo imposto pela sua família... e viver das suas próprias escolhas!	1	-1
+82,aprovado em concurso público	3	-1
+83,mudança de trabalho para a cidade de itabira e incompatibilidade de horário 	2	-3
+84,mudar de área	2	-1
+85,fui emburrecido durante anos no ensino público brasileiro e não estava preparado para a realidade da academia naquela época; 	1	-1
+86,falta de apoio da coordenação.	2	-3
+87,"professores sem didática nenhuma em um curso que ja é muito difícil, não tendo a opção de puxar a materia com um outro"	1	-1
+88,saude	1	-1
+89,"me sentia um peixe fora d água, deprimida e cada vez mais desmotivada."	1	-3
+90,a faculdade não da atenção necessária a alunos com necessidade especial	2	-1
+91, incompatibilidade de tempo de tempo de trabalho e estudo	1	-3
+92,conflito com o trabalho	1	-2
+93,"entrei na ufop por transferência externa realizei a matricula com os técnicos administrativos que foram muito atenciosos mesmo estando em greve no momento,não fiquei na ufop por que não concordei com o aproveitamento do currículo."	1	-3
+94,"o fato de que o curso tem mais peso em tópicos com os quais tenho pouca afinidade, junto de um possível problema psicológico."	1	-3
+95,"não me via trabalhando na área, além da exigência de esforço dobrado em certas matérias devido a professores mal preparados, isso tudo trabalhando e estudando."	1	-3
+96,"o ambiente da faculdadr nao era agradavel,falo sobre os alunos. muitos incentivam a desistencia ainda quando somos calouros, o sistema de republicas na cidade é muito ridiculo, cheio de panelinhas. nao ter uma moradia estudantil como nos outros campos dificulta, ja que ficam poucas as opcoes p quem vem de outra cidade. "	2	-2
+97,tive depressão devido a problemas pessoais que se agravaram com as baixas notas no curso e as altas cobranças 	1	-4
+98,"o curso estava no início faltando muitos professores, o que me levava a pegar cerca de 3, 4 materias por semestres"	1	-1
+99,problemas familiares	1	-3
+100,escolha errada	1	-1
+101,"eu sai porque passei na unesp em engenharia civil (na qual eu me formei) que era 1 hora da casa dos meus pais, enquanto que a ufop, eu demorava 8h para chegar."	2	-2
+102,"não me identifiquei com o curso. entrei para o curso de engenharia de produção, porém me identifico mais com a área de humanas"	1	-1
+103,a falta de afinidade com o curso e a forma como as disciplinas são dadas.	2	-3
+104,"não gostei muito do campus, pois não me sentia em uma universidade e acabei descobrindo outro curso de interesse no campus morro do cruzeiro."	1	-2
+105,dificuldade em frequentar as aulas e falta de tempo suficiente para estudar.	1	-3
+106,curso pouco interessante e difícil	2	-1
+107,"realizei transferência para o cefet de belo horizonte, era mais perto de casa e teve muitas greves no icea, inclusive de alunos."	1	-3
+108,"fui estudar para concurso público, pois já possuo uma graduação. "	3	-1
+109,problemas pessoais	1	-3
+110,"notas ruins, não queria começar o curso com o pé esquerdo, mesmo n tendo vontade de estudar."	1	-1
+111,a faculdade é o maior exemplo do darwinismo social	1	-1
+112,não estava gostando mais do curso.	1	-2
+113,falta de moradia universitária.	1	-3
+114,a dificuldade em relação a matéria principal do curso.	1	-2
+115,tdah e outras comorbidades.	1	-1
+116,falta de identificação com o curso	1	-3
+117,tempo para estudo	1	-1
+118,possibilidade de ingressar em outro curso que me interessava mais.	1	-1
+119,não me identifiquei com a área e não conseguia aprender.	1	-2
+120,aprovação no vestibular da ufsj para o curso de engenharia de telecomunicações	2	-1
+121,entrei em outra universidade federal na mesma cidade que minha família mora.	1	-1
+122,consegui trasferencia para uma universidade na minha cidade natal	2	-1
+123,"dificuldade em gerenciar o trabalho com estudo,o que afetou a saúde "	1	-2
+124,familia e greve da ufop	1	-3
+125,"falta de tempo livre para dedicação aos estudos, em face dos horários de trabalho."	1	-3
+126,os custos de vida eram altos e a motivação pela curso era baixa. 	1	-3
+127,fiz as escolhas erradas	1	-1
+128,não me adaptei com o curso.	1	-2
+129,ninguém tem comprometimento com ensino no icea. professores que se acham por bombar quase uma turma toda . alunos que cagam pra estar tomando pau em tudo .	1	-3
+130,"não tinha a intenção de largar o curso, porém tive que trancar o período duas vezes devido a mudança para outra cidade que fiz."	2	-1
+131,"era minha segunda graduação, representaria uma mudança muito grande na carreira e estava impossível conciliar com o trabalho, mas o curso é bom e não tenho o que reclamar dos professores."	2	-1
+132,problema familiares causaram meu baixo desempenho.	1	-3

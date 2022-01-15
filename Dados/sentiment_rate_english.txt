@@ -1,0 +1,133 @@
+0,"I got passed in  another university, in a city with much more internship and job opportunities in the area."	2	-1
+1,adaptation	1	-1
+2,I ended up giving up the area. I will take civil services exams	1	-1
+3,Teachers make it very difficult for us to stay in college	1	-3
+4,The strike that occurred at the time.	1	-3
+5,"I didn't get continue. ICEA charges a lot and teaches little! It uses students who came from private schools as a parameter of knowledge, and they forget that the public system is lagging behind in knowledge."	1	-2
+6,Too much strike!	1	-3
+7,Approval at another university (UFMG).	2	-1
+8,Difficulty in reconciling work and studies	1	-2
+9,Pass at a bigger university	2	-1
+10,Low-performance shutdown due to psychological problems caused by demotivation in relation to the course.	1	-2
+11,Lack of didactics by some teachers.	1	-3
+12,Joao Monlevade	1	-1
+13,Note: Scenario is with “C”.	1	-1
+14,Change of course and university	2	-1
+15,I moved to PUC-MG and started working at Cemig.	1	-2
+16,Approval on my first course option at Sisu.	2	-1
+17,- The classroom environment discouraged me.	1	-2
+18,Desinterest due to disapprovals	1	-2
+19,Distance from home and not belonging to the city of Monlevade	1	-2
+20,Opportunity to attend a Federal University in my city	1	-1
+21,"Lack of competent teachers and many strikes, in addition to the reforms that lasted throughout the course"	1	-3
+22,My son was born.  )	1	-1
+23,Constant strikes and when i returned there was not enough choir for all students	1	-3
+24,"I have ADHD, I didn't know it at the time, and I couldn't get well in my studies."	1	-2
+25,Distance between college and my home	1	-2
+26,Difficulty in renting property without bureaucracy as guarantor.	1	-2
+27,Difficulties in Algorithms and Data Structures	1	-2
+28,Successive failures.	1	-3
+29,I didn't like the course and the opportunity arose to take a different course closer to my city	1	-2
+30,"Teachers do not teach, the vast majority, except for a few, show disinterest in the learning of students and in teaching, are sarcastic and, due to their position in an IEF, show themselves to be superior to other teachers."	3	-3
+31,"The terrible didactics of some teachers, and in some cases their unwillingness to teach ... Leaving most of the time the teaching on behalf of the tutor / monitor."	1	-4
+32,Lack of yield utilization of another faculty for transfer	1	-3
+33,I came back to the area that I always liked and worked	3	-2
+34,Being away from home with low financial support.	2	-2
+35,Difficulty in reconciling work and study.	1	-2
+36,The difficulty in relation to the main subject of the course.	1	-2
+37,"I took the entrance exam and passed a similar course at UNIFEI, I didn't like UFOP's facilities in Monlevade."	2	-2
+38,Who has a beautiful special in the family knows how it is ...	3	-1
+39,Proximity of the other college to the current city of the parents	1	-1
+40,Creation of my own company during graduation.	1	-1
+41,Competition approval.	2	-1
+42,"I entered computer engineering and left, after 2 years I returned to production engineering and left that period again."	1	-1
+43,Lack of perspective	1	-3
+44,Course immaturity	1	-1
+45,My registration was canceled unfairly because I presented all the necessary documents and after 3 months that I was already studying my registration was canceled	1	-2
+46,"I have passed in a college in my city, on the same course"	2	-1
+47,Bad didactics (except in the introductory discipline to computer engineering) and a lot of demands on tests.	1	-2
+48,The depression caused me to be disinterested in the course and everything else.	1	-4
+49,"Teachers with no commitment to teaching, who are happy to grade down but have no good will to teach."	2	-1
+50,Unhappiness and difficulty in my course.	1	-3
+51,Most teachers lack understanding of students who worked all day and traveled to study at night.	1	-3
+52,It wasn't what I wanted	1	-1
+53,Incompatibility of work and study time.	1	-3
+54,I joined USP two days after enrollment	1	-1
+55,I chose another course that i had a greater interest in the area.	3	-1
+56,"The course was in a lot of problems. The lack of laboratories and the prediction that they would not be built before we graduated, teachers very careless with teaching (we had a teacher who missed almost 3 months of class and wanted to give the semester in 2 months taking the month of vacation for that), structural problems of the campus itself, in short, everything was a mess and disorganization reigned there. These things were discouraging and a lot of my class, which caused a great evasion among them. I ended up taking entrance exams for another public university and I left UFOP - ICEA."	3	-3
+57,"I didn't see myself as an engineer, all my colleagues already had a predisposition in the area of   the course."	1	-1
+58,"Lack of accessibility for people who work shift work. I had to listen to professors, mainly xxxxx, coordinator of the Information Systems course that either you work or you study. I can not do anything for you! Alie felt like nothing. The public school must be accessible. Once I saw that the public university was accessible to those who had accessibility to availability, I was sad, because I always had to work to pay. Water, electricity, food and so on. And teachers like Thiago made me leave UFOP"	2	-4
+59,"UFOP's infrastructure for computing sucks, it doesn't have research, it doesn't have practical laboratory classes and after you know UFMG you are even more disappointed, since UFOP's biggest problems are the aggressive behavior of having pleasure in failing students. students."	3	-3
+60,"Teachers lack empathy, especially with those who work."	1	-3
+61,I realized that I didn’t fit in the exact area	2	-1
+62,To life	1	-1
+63,I moved to UFMG.	1	-1
+64,Lacked of willpower to continue.	1	-3
+65,"the total lack of respect of some teachers with students and with education, terrible teachers, is happy to say that they fail more than 90% of students, in my opinion the problem is not with failing students, but with these ""teachers""."	3	-4
+66,"A course that was already difficult became more difficult because of antiquated teachers, with terrible teaching and a certain ignorance when dealing with students. Especially the professor and president of the collegiate xxxxx, who occasionally rudely treats students and denied requests for break without plausible justifications (ex: denied Basic Environmental Engineering alleging lack of prior knowledge)"	2	-4
+67,"I have passed the same course at UFOP, due to family distance, low financial resources and not adapting to João Monlevade, I decided to return to Ouro Preto."	2	-2
+68,"Most teachers do not help those who work and study, only students who stay only to study."	1	-2
+69,Lack of time was a determining factor.	1	-3
+70,Course change due to my area of   expertise in the job market	2	-1
+71,Low performance in disciplines	1	-2
+72,I DIDN'T FIT THE COURSE	1	-2
+73,"Diagnosed with depression, with no treatment sequence."	1	-4
+74,It was necessary to prioritize work over study.	1	-2
+75,"I didn't adapt to the city, I was very young and unprepared."	1	-2
+76,I have passed in another course at UFOP in another campus	2	-1
+77,"lack of a source of income to support me in the city, unfortunately."	2	-3
+78,Leave JM	1	-1
+79,Computer engineering is not for me.	1	-1
+80,Lack of identification with the course	1	-3
+81,It takes courage to let go of something imposed by your family ... and live off your own choices!	2	-2
+82,Approved in public tender	3	-1
+83,Change of job to the city of Itabira and incompatibility of schedule	2	-3
+84,Change area	2	-1
+85,I was dumbed down for years in Brazilian public education and I was not prepared for the reality of the academy at that time;	1	-2
+86,Lack of support from coordination.	2	-3
+87,"Teachers with no didactics in a course that is already very difficult, not having the option of take the subject with another one"	1	-3
+88,Health	1	-1
+89,"I felt like a fish out of water, depressed and increasingly unmotivated."	2	-4
+90,The faculty does not provide the necessary attention to students with special needs	2	-1
+91,Incompatibility of working time and study time	1	-3
+92,conflict with work	1	-2
+93,"I joined UFOP by external transfer I enrolled with the administrative technicians who were very attentive even though they were on strike at the moment, I did not stay at UFOP because I did not agree with the use of the curriculum."	1	-3
+94,"The fact that the course has more weight on topics with which I have little affinity, along with a possible psychological problem."	1	-2
+95,"I did not see myself working in the area, besides the requirement of double effort in certain subjects due to ill-prepared teachers, all of this working and studying."	1	-2
+96,"The college environment was not pleasant, I talk about the students. Many encourage us to give up even when we are freshmen, the system of republics in the city is very ridiculous, full of cliques. Not having a student housing as in other fields makes it difficult, since there are few options for those who come from another city."	2	-4
+97,I had depression due to personal problems that were aggravated by the low grades in the course and the high demands	1	-4
+98,"The course was at the beginning lacking many teachers, which led me to take about 3, 4 subjects per semester"	1	-3
+99,Family problems	1	-2
+100,Wrong choice	1	-2
+101,"I left because I have passed at UNESP in Civil Engineering (in which I graduated) that it was 1 hour from my parents' house, while at UFOP, it took me 8 hours to arrive."	2	-1
+102,"I didn't identify with the course. I joined the Production Engineering course, but I identify more with the humanities area"	1	-1
+103,The lack of affinity with the course and the way the subjects are given.	1	-3
+104,"I didn't like the campus very much, as I didn't feel like I was at a university and I ended up discovering another course of interest on the Morro do Cruzeiro campus."	2	-2
+105,Difficulty in attending classes and lack of sufficient time to study.	1	-3
+106,LITTLE INTERESTING AND DIFFICULT COURSE	1	-2
+107,"I transferred to CEFET in Belo Horizonte, was closer to home and had many strikes at ICEA, including students."	1	-3
+108,"I went to study for a public exam, because I already have a degree."	1	-1
+109,Personal problems	1	-2
+110,"Bad grades, I didn't want to start the course with my left foot, even though I didn't want to study."	1	-2
+111,The College is the greatest example of social Darwinism	3	-1
+112,I didn't like the course any more.	1	-2
+113,Lack of university housing.	1	-3
+114,The difficulty in relation to the main subject of the course.	1	-2
+115,TADHD and other comorbidities.	1	-1
+116,Lack of identification with the course	1	-3
+117,time for study	1	-1
+118,Possibility of entering another course that interested me the most.	2	-1
+119,I didn't identify with the area and I couldn't get learn.	1	-2
+120,Approval in the entrance exam at UFSJ for the Telecommunications Engineering course	2	-1
+121,I entered another federal university in the same city where my family lives.	1	-1
+122,Getting a transfer to a university in my hometown	2	-1
+123,"Difficulty in managing study and work, which affected health"	1	-2
+124,family and UFOP's strike	1	-3
+125,"Lack of free time to dedicate to studies, in view of working hours."	1	-3
+126,Living costs were high and motivation for the course was low.	1	-2
+127,I made the wrong choices	1	-2
+128,I didn't adapt to the course.	1	-2
+129,No one have committed to teaching at icea. Teachers who are so full of themselves because fail almost a whole class. students who don't care of being reproved in almost all subjects	1	-3
+130,"I had no intention of leaving the course, however I had to lock the period twice due to the move to another city that I made."	1	-1
+131,"It was my second graduation, it would represent a very big change in career and it was impossible to reconcile with work, but the course is good and I have nothing to complain about the teachers."	2	-2
+132,Family problems caused my low performance.	1	-2

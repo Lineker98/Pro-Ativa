@@ -1,0 +1,134 @@
+,Textos_evasao
+0,"consegui passar em outra universidade, em uma cidade com muito mais oportunidades de estágio e emprego na área."
+1,adaptacao 
+2,acabei desistindo da área. virei concurseiro 
+3,professores dificultam muito a nossa estadia na faculdade
+4,a greve que ocorreu na época. 
+5,"eu não consegui prosseguir. o icea cobra muito e ensina pouco! utiliza como paramento de conhecimento alunos que vieram de escolas particulares, e esquecem que o sistema publico esta defasado em conhecimento."
+6,muita greve!
+7,aprovação em outra universidade (ufmg).
+8,dificuldade em conciliar trabalho e estudos
+9,passar em uma universidade maior
+10,"desligamento por baixo rendimento, devido a problemas psicológicos causados por desmotivação em relação ao curso."
+11,falta de didatica de alguns professores.
+12,joao monlevade
+13,observação: cenário é com “c”.
+14,mudança de curso e faculdade
+15,mudei para puc-mg e comecei a trabalhar na cemig. 
+16,aprovação em minha primeira opção de curso no sisu.
+17,- o ambiente em sala de aula me desmotivava.
+18,desinteresse por causa de reprovações
+19,distância de casa e não pertencimento a cidade de monlevade
+20,oportunidade de cursar uma federal em minha cidade 
+21,"falta de professores competentes e muitas greves, além das reformas q duraram todo o tempo do curso"
+22,meu filho nasceu. =)
+23,greves constantes e quando retornava nao havia coro suficiente para todos os alunos 
+24,"eu tenho tdah, não sabia disso na época, e não conseguia render nos estudos."
+25,distancia entre a faculdade e minha casa
+26,dificuldade de alugar imóvel sem burocracia como fiador.
+27,dificuldades em algoritmos e estruturas de dados
+28,reprovações sucessivas.
+29,não estava gostando do curso e surgiu a oportunidade de fazer um curso diferente e mais próximo da minha cidade
+30,"os professores não ensinam, a grande maioria, salvo alguns, demonstram desinteresse em relação ao aprendizado dos alunos e em ensinar, são sarcásticos e, devido ao cargo em uma ief, se mostram sentido-se como superiores em relação à outros professores."
+31,"a péssima didática de alguns professores, e em alguns casos a má vontade do mesmo em saber ensinar... deixando na maioria das ocasiões o ensino por conta do tutor/monitor."
+32,falta de aproveitamento do rendimento de outra faculdade para transferência
+33,voltei pra area que sempre gostei e trabalhei
+34,estar longe de casa com baixo suporte financeiro.
+35,dificuldade em conciliar trabalho e estudo.
+36,a dificuldade em relação a matéria principal do curso.
+37,"fiz vestibular e passei em curso semelhante na unifei, não estava gostando das instalações da ufop em monlevade. "
+38,quem tem um lindo especial na família sabe como é... 
+39,proximidade da outra faculdade com a cidade atual dos pais
+40,criação da minha própria empresa durante a graduação.
+41,aprovação em concurso.
+42,"entrei em ec e sai, depois de 2 anos voltei em ep e larguei de novo esse periodo."
+43,falta de perspectiva 
+44,imaturidade do curso
+45,minha matrícula foi cancelada de forma injusta pois apresentei todos os documentos necessários e após 3 meses que já estava estudando minha matrícula foi cancelada 
+46,"passei em uma faculdade da minha cidade, no mesmo curso"
+47,didática ruim (exceto na disciplina de introdução a engenharia da computação) e muita cobrança nas provas. 
+48,a depressão me levou a ter desinteresse pelo curso e por todo o resto.
+49,"professores sem compromisso de ensinar, que tem prazer em dar nota baixar mas não tem boa vontade de ensinar. "
+50,infelicidade e dificuldade no neu curso.
+51,falta de compreensão da maioria dos professores em relação a alunos que trabalhavam o dia inteiro e viajavam pra estudar no período noturno.
+52,não era oque eu queria 
+53,incompatibilidade de tempo de trabalho e estudo.
+54,entrei na usp dois dias depois da matrícula
+55,escolhi outro curso que tinha maior interesse pela área.
+56,"o curso estava com muitos problemas. a falta de laboratórios e a previsão que eles não seriam construídos antes de formamos, professores muito displicentes com o ensino (tivemos um professor que faltou quase 3 meses de aula e quiz dar o semestre em 2 meses pegando o mês de ferias para isso), problemas estruturais do próprio campus, enfim, estava tudo uma bagunça e desorganização reinava ali. essas coisas foram desanimando e muito minha turma, o que ocasionou uma grande evasão entre eles. acabei prestando vestibular para outra universidade pública e me desliguei da ufop - icea. "
+57,"não me via como engenheiro, todos meus colegas já tinham uma predisposição na área do curso."
+58,"falta de acessibilidade as pessoas que trabalham de turno. tive que escutar de professores, principalmente do xxxxx, coordenador do curso de sistemas de informação que ou você trabalha ou você estuda. não posso fazer nada por você! alie senti como um nada. a escola pública deve ser acessível. uma vez que vi que a universidade pública era acessível a quem tinha acessibilidade a disponibilidade fiquei triste, pois sempre precisei trabalhar parar bancar. água, luz, alimentação e etc. e professores como o xxxxx me fizeram a sair da ufop"
+59,"a infra da ufop para computação é uma bosta, não tem pesquisa, não tem aulas práticas de laboratório e depois que você conhece a ufmg você se decepciona ainda mais, já que os maiores problemas da ufop estão no comportamento agressivo de ter prazer em reprovar os alunos."
+60,"falta de empatia dos professores, principalmente com quem trabalha."
+61,eu percebi que eu não me encaixava na área de exatas
+62,a vida 
+63,mudei para a ufmg.
+64,faltou força de vontade para continuar.
+65,"total falta de respeito de alguns professores com alunos e com a educação, péssimos professores, tem prazer em falar que reprovam mais de 90% de alunos, na minha opinião o problema não está nos alunos reprovados e sim nestes ""professores"". "
+66,"um curso que já era difícil se tornou mais difícil por conta de professores antiquados, com péssima didática e certa ignorância ao lidar com alunos. em especial o professor e presidente do colegiado xxxxx, que vez ou outra trata alunos de forma grosseira e negava pedidos de quebra sem justificativas plausíveis (ex: negou engenharia ambiental básica alegando falta de conhecimento prévio)"
+67,"passei no mesmo curso na ufop, devido à distância da família, baixo recurso financeiro e não adaptação à joão monlevade, decidi voltar para ouro preto."
+68,"a maioria dos professores não ajuda quem trabalha e estuda, somente aos alunos que ficam somente para estudar."
+69,falta de tempo foi fator determinante.
+70,mudança de curso devido minha área de atuação no mercado de trabalho
+71,baixo rendimento nas disciplinas
+72,não me adaptei ao curso
+73,"diagnosticado com depressão, sem sequência no tratamento."
+74,foi necessário priorizar o trabalho em detrimento ao estudo.
+75,"não me adaptei à cidade, estava muito jovem e despreparado."
+76,passei em outro curso na ufop no campus morro do cruzeiro 
+77,"falta de uma fonte de renda para me sustentar na cidade, infelismente."
+78,sair de jm
+79,engenharia da computação não é para mim.
+80,falta de identificação com o curso
+81,é necessário coragem para se largar algo imposto pela sua família... e viver das suas próprias escolhas!
+82,aprovado em concurso público
+83,mudança de trabalho para a cidade de itabira e incompatibilidade de horário 
+84,mudar de área
+85,fui emburrecido durante anos no ensino público brasileiro e não estava preparado para a realidade da academia naquela época; 
+86,falta de apoio da coordenação.
+87,"professores sem didática nenhuma em um curso que ja é muito difícil, não tendo a opção de puxar a materia com um outro"
+88,saude
+89,"me sentia um peixe fora d água, deprimida e cada vez mais desmotivada."
+90,a faculdade não da atenção necessária a alunos com necessidade especial
+91, incompatibilidade de tempo de tempo de trabalho e estudo
+92,conflito com o trabalho
+93,"entrei na ufop por transferência externa realizei a matricula com os técnicos administrativos que foram muito atenciosos mesmo estando em greve no momento,não fiquei na ufop por que não concordei com o aproveitamento do currículo."
+94,"o fato de que o curso tem mais peso em tópicos com os quais tenho pouca afinidade, junto de um possível problema psicológico."
+95,"não me via trabalhando na área, além da exigência de esforço dobrado em certas matérias devido a professores mal preparados, isso tudo trabalhando e estudando."
+96,"o ambiente da faculdadr nao era agradavel,falo sobre os alunos. muitos incentivam a desistencia ainda quando somos calouros, o sistema de republicas na cidade é muito ridiculo, cheio de panelinhas. nao ter uma moradia estudantil como nos outros campos dificulta, ja que ficam poucas as opcoes p quem vem de outra cidade. "
+97,tive depressão devido a problemas pessoais que se agravaram com as baixas notas no curso e as altas cobranças 
+98,"o curso estava no início faltando muitos professores, o que me levava a pegar cerca de 3, 4 materias por semestres"
+99,problemas familiares
+100,escolha errada
+101,"eu sai porque passei na unesp em engenharia civil (na qual eu me formei) que era 1 hora da casa dos meus pais, enquanto que a ufop, eu demorava 8h para chegar."
+102,"não me identifiquei com o curso. entrei para o curso de engenharia de produção, porém me identifico mais com a área de humanas"
+103,a falta de afinidade com o curso e a forma como as disciplinas são dadas.
+104,"não gostei muito do campus, pois não me sentia em uma universidade e acabei descobrindo outro curso de interesse no campus morro do cruzeiro."
+105,dificuldade em frequentar as aulas e falta de tempo suficiente para estudar.
+106,curso pouco interessante e difícil
+107,"realizei transferência para o cefet de belo horizonte, era mais perto de casa e teve muitas greves no icea, inclusive de alunos."
+108,"fui estudar para concurso público, pois já possuo uma graduação. "
+109,problemas pessoais
+110,"notas ruins, não queria começar o curso com o pé esquerdo, mesmo n tendo vontade de estudar."
+111,a faculdade é o maior exemplo do darwinismo social
+112,não estava gostando mais do curso.
+113,falta de moradia universitária.
+114,a dificuldade em relação a matéria principal do curso.
+115,tdah e outras comorbidades.
+116,falta de identificação com o curso
+117,tempo para estudo
+118,possibilidade de ingressar em outro curso que me interessava mais.
+119,não me identifiquei com a área e não conseguia aprender.
+120,aprovação no vestibular da ufsj para o curso de engenharia de telecomunicações
+121,entrei em outra universidade federal na mesma cidade que minha família mora.
+122,consegui trasferencia para uma universidade na minha cidade natal
+123,"dificuldade em gerenciar o trabalho com estudo,o que afetou a saúde "
+124,familia e greve da ufop
+125,"falta de tempo livre para dedicação aos estudos, em face dos horários de trabalho."
+126,os custos de vida eram altos e a motivação pela curso era baixa. 
+127,fiz as escolhas erradas
+128,não me adaptei com o curso.
+129,ninguém tem comprometimento com ensino no icea. professores que se acham por bombar quase uma turma toda . alunos que cagam pra estar tomando pau em tudo .
+130,"não tinha a intenção de largar o curso, porém tive que trancar o período duas vezes devido a mudança para outra cidade que fiz."
+131,"era minha segunda graduação, representaria uma mudança muito grande na carreira e estava impossível conciliar com o trabalho, mas o curso é bom e não tenho o que reclamar dos professores."
+132,problema familiares causaram meu baixo desempenho.
